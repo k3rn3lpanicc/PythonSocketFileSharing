@@ -1,0 +1,14 @@
+[~]>List of commands and how to use them:
+
+1)connect IPADDRESS PORTNUMBER
+	it will connect to the server with following information
+2)terminate
+	it will terminate the client and stop the programm
+3)close
+	it will terminate the connection but will keep the programm running (you can connect to server after this again
+4)update
+	it will recive the list of filenames(not addresses) from server
+5)get FILENAME(NOT ADDRESS)
+	it will download the file from server. you don't need to know the address of file , only it's name is needed
+6)help
+	it will print this message
