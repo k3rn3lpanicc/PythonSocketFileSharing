@@ -2,7 +2,7 @@
 ```bash
 python3 Server.py
 ```
-```bash
+```
 Server Help :
 [~]>Commands and how to use them :
 
@@ -33,7 +33,7 @@ Server Help :
 ```bash
 python3 Client.py
 ```
-```bash
+```
 Client help :
 [~]>List of commands and how to use them:
 
