@@ -1,3 +1,6 @@
+# File Sharing
+A python file server implementation using socket programming and multi-threading
+
 # Server
 ```bash
 python3 Server.py
